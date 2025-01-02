@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.custom-dark-navy {
+    background-color: #02072d; /* Replace with your preferred navy blue */
+  }
+  .custom2-dark-navy {
+    background-color: #02072d; /* Replace with your preferred navy blue */
+  }
+  
